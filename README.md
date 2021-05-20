@@ -1,3 +1,3 @@
 20212956 - Yeojin Goo
 
-Kookmin Univ. SW
+Kookmin Univ. School of Computer Science

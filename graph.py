@@ -1,5 +1,5 @@
 from cgi import parse_qs
-import mataplotlib as mpl
+import matplotlib as mpl
 mpl.use('Agg')
 from template import html
 import matplotlib.pyplot as plt
